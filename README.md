@@ -26,15 +26,7 @@ I'm a developer with a passion for backend systems and a knack for coding with a
 - **MERN Stack:** Integrating MongoDB, Express, React, and Node.js for full-stack development.
 - **Computer Science Fundamentals:** Strengthening my foundational knowledge to better understand complex problem-solving in programming.
 
-## Projects
-Here are some projects I've worked on:
-
-- **[CSS-Snippet-Cheatsheet](#)**: A collection of CSS snippets to speed up web development.
-- **[Project-Tracker](#)**: An application to track project progress with JavaScript.
-- **[E-commerce-Back-End](#)**: Backend for an e-commerce site using Express.js and Sequelize.
-- **[Employee-Tracker](#)**: Manage a company's employee database with Node.js.
-
 ## Let's Connect
 I'm based in sunny Florida ☀️ and always interested in a good tech talk. If you're keen on discussing a project or exchanging ideas, I'm all ears.
 
-[LinkedIn](#) | [Twitter](#)
+[LinkedIn](#) | [Twitter](https://twitter.com/Diegothedevid98)
