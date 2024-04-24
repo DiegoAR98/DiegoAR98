@@ -1,6 +1,6 @@
 # Hi there, I'm Diego 👋
 
-I'm a developer with a passion for backend systems and a knack for coding with a cup of coffee by my side. I'm on a journey to master the backend landscape and here's a glimpse into my world of code.
+I'm a MERN stack developer with a passion for creating dynamic and scalable web applications. With a cup of coffee always at my side, I am dedicated to mastering the intricate details of frontend and backend development within the MERN ecosystem.
 
 ## Technologies & Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
@@ -14,19 +14,20 @@ I'm a developer with a passion for backend systems and a knack for coding with a
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-%23F7DF1E?style=flat)
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
 
 - **Web Development:** HTML, CSS, Bootstrap, JavaScript (ES6+), jQuery, AJAX, JSON
 - **Backend Technologies:** Node.js, Express, MySQL, Sequelize, MVC Paradigm
-- **Computer Science:** Fundamentals, Problem-solving, Dreaming up something fantastic, Understanding the bounds of reasonable and achievable
+- **Full-Stack Development:** MERN Stack (MongoDB, Express, React, Node.js)
+- **Database Management:** Proficiency with MySQL and exploration of NoSQL databases
+- **Progressive Web Apps:** Building fast, engaging, and reliable web experiences
+- **Computer Science:** Fundamentals, problem-solving, and understanding the bounds of reasonable and achievable
 
 ## Current Learning
-- **Progressive Web Apps:** Exploring how to build fast, engaging, and reliable experiences on the web.
-- **React:** Diving into component-based architecture for building user interfaces.
-- **NoSQL:** Studying scalable database solutions for modern applications.
-- **MERN Stack:** Integrating MongoDB, Express, React, and Node.js for full-stack development.
-- **Computer Science Fundamentals:** Strengthening my foundational knowledge to better understand complex problem-solving in programming.
+- **AWS Fundamentals:** Learning about cloud services and infrastructure on AWS.
+- **Programming Languages:** Advancing my knowledge in Python, Java, and C# for versatile software development.
 
 ## Let's Connect
 I'm based in sunny Florida ☀️ and always interested in a good tech talk. If you're keen on discussing a project or exchanging ideas, I'm all ears.
 
-[LinkedIn](#) | [Twitter](https://twitter.com/Diegothedevid98)
+[Website](https://diego-araujo.com) | [LinkedIn](https://www.linkedin.com/in/diego-araujo-aa39402b7/)
