@@ -25,17 +25,20 @@ I'm a MERN stack developer with a passion for creating dynamic and scalable web 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-%234664E6?style=flat&logo=render&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2306B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=.net&logoColor=white)
 
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript (ES6+), jQuery, AJAX, JSON
-- **Backend Technologies:** Node.js, Express, MySQL, Sequelize, MVC Paradigm
-- **Full-Stack Development:** MERN Stack (MongoDB, Express, React, Node.js)
-- **Database Management:** Proficiency with MySQL and exploration of NoSQL databases
-- **Progressive Web Apps:** Building fast, engaging, and reliable web experiences
-- **Computer Science:** Fundamentals, problem-solving, and understanding the bounds of reasonable and achievable
+- **Web Development:** Proficient in HTML5, CSS3, Bootstrap, JavaScript (ES6+), jQuery, AJAX, JSON
+- **Backend Technologies:** Experienced with Node.js, Express, C#, .NET, MySQL, Sequelize, following the MVC paradigm
+- **Full-Stack Development:** Skilled in using the MERN Stack (MongoDB, Express, React, Node.js) and integrating C# with .NET applications
+- **Database Management:** Proficient with MySQL and actively exploring NoSQL databases for scalable solutions
+- **Progressive Web Apps (PWA):** Developing fast, engaging, and reliable web applications optimized for performance
+- **Computer Science Fundamentals:** Strengthening problem-solving skills and understanding theoretical limits of computing
 
 ## Current Learning
-- **AWS Fundamentals:** Learning about cloud services and infrastructure on AWS.
-- **Programming Languages:** Advancing my knowledge in Python, Java, and C# for versatile software development.
+- **Cloud Services:** Deepening knowledge of AWS fundamentals to better manage cloud infrastructure
+- **Advanced Programming:** Advancing my expertise in Python, Java, focusing on versatile and robust software development
+
 
 ## Let's Connect
 I'm based in sunny Florida ☀️ and always interested in a good tech talk. If you're keen on discussing a project or exchanging ideas, I'm all ears.
