@@ -27,6 +27,8 @@ I'm a MERN stack developer with a passion for creating dynamic and scalable web 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2306B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat&logo=.net&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-%23000000?style=flat&logo=json-web-tokens&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-%235A0FC8?style=flat&logo=pwa&logoColor=white)
 
 - **Web Development:** Proficient in HTML5, CSS3, Bootstrap, JavaScript (ES6+), jQuery, AJAX, JSON
 - **Backend Technologies:** Experienced with Node.js, Express, C#, .NET, MySQL, Sequelize, following the MVC paradigm
