@@ -53,8 +53,9 @@ Currently enjoying the simulation and helping build the next one.
 
 ------
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAR98&layout=compact&theme=dark&langs_count=6&include_all_commits=true&count_private=true" alt="Most Used Languages" />
+</p>
 
 
 
